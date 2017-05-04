@@ -1,5 +1,5 @@
 {
-  "name": "A browser control images setting which changes its icon when clicked",
+  "name": "Change browser control images setting",
   "description": "Change browser control images setting when its icon is clicked",
   "permissions": [ "contentSettings" ],
   "version": "1.0",
